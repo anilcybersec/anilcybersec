@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @anilcybersec
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Ethical Hacking,Networking,Nmap,Wireshark etc
-- 💞️ I’m looking to collaborate on Cyber security Analyst
-- 📫 How to reach me ...
+- 👀 👋 Hi, I'm Anil Kumar S, a tech enthusiast with a strong foundation in networking protocols, routing, switching, and Cisco Security Products.
+- 🌐 I have hands-on experience in network design, troubleshooting, and security implementation from my role as a Network Security Trainee at Networkers Home. Certified in Cisco Networking Fundamentals, I’m passionate about optimizing and securing digital infrastructures.
+- 🚀 Always learning and excited about new opportunities! #NetworkEngineer #Cybersecurity
+- 📫 How to reach me yesanil18@gmail.com
 
 <!---
 anilcybersec/anilcybersec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
